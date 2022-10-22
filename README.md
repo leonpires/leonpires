@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leon PIres
 
-- 🌱 Estudante de Engenharia de Software. Buscando me aperfeiçoar e conexões para expandir meu conhecimento. CSS, HTML5, JavaScript, Java e WordPress;
+- 🌱 Estudante de Engenharia de Software. Buscando me aperfeiçoar e conexões para expandir meu conhecimento em CSS, HTML5, JavaScript, Java e WordPress;
 <div align="center">
   <a href="https://github.com/leonpires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonpires&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
