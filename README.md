@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leon PIres
+### Olá! Eu sou o Leon Pires
 
 - 🌱 Estudante de Engenharia de Software. 
 -  Buscando me aperfeiçoar e conexões para expandir meu conhecimento em CSS, HTML5, JavaScript, Java e WordPress;
